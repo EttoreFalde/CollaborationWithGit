@@ -30,3 +30,7 @@ Questo README è valido solo per Mac
 
 14° effettuare il log in di GitHub su console
 
+15° per tirare giù una repository da GitHub --> git pull
+
+
+
